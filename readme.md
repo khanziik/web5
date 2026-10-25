@@ -1,6 +1,7 @@
 # Assignment 5: JavaScript
 **Student:** Suleimen Khanzere
 **Group:** IT-2504
+https://khanziik.github.io/web5/
 
 ## Part 1: Profile object, data types & arithmetic
 ### Task 1: Personal info object
